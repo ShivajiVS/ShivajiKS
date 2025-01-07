@@ -24,7 +24,7 @@ I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. 
 
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my portfolio at [shivaji.vercel.app/](http://shivaji.vercel.app/)
-* ✉️  You can contact me at [shivajikondeti555@gmail.com](mailto:shivajikv55@gmail.com)
+* ✉️  You can contact me at [shivajikv55@gmail.com](mailto:shivajikv55@gmail.com)
 * 🚀  I'm currently working on [Ecommerce website](http://ecommerce-olive-pi.vercel.app/)
 
 ## SKILLS
