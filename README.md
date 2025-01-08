@@ -38,6 +38,9 @@ I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. 
 - React Hook form and Zod.
 - Clerk.
 - Zustand.
-- Sanity CMS
-- Firebase
-- Nodejs
+- Sanity CMS.
+- Firebase.
+- Nodejs.
+- Jest.
+- React Testing Library.
+- Playwright.
