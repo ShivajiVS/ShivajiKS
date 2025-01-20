@@ -43,4 +43,4 @@ I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. 
 - Nodejs.
 - Jest.
 - React Testing Library.
-- Playwright.
+- End to End testing with the Playwright.
