@@ -36,7 +36,8 @@ I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. 
 - Tailwind Css.
 - Framer Motion.
 - React Hook form and Zod.
-- ShadCn
+- ShadCn.
+- Next-auth.
 - Clerk.
 - Zustand.
 - Sanity CMS.
