@@ -28,6 +28,8 @@ I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. 
 * 🚀  I'm currently working on [Ecommerce website](http://ecommerce-olive-pi.vercel.app/)
 
 ## SKILLS
+- HTML.
+- CSS.
 - JavaScript.
 - React Js.
 - TypeScript.
