@@ -44,6 +44,7 @@ I am Shivaji, a self-taught frontend React developer based in Hyderabad, India. 
 - Zustand.
 - Sanity CMS.
 - Firebase.
+- Supabase.
 - Nodejs.
 - Jest.
 - React Testing Library.
